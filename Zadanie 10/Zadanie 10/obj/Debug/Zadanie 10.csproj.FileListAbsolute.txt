@@ -1,0 +1,7 @@
+C:\Users\Bartek\source\repos\Zadanie 10\Zadanie 10\obj\Debug\Zadanie 10.csprojAssemblyReference.cache
+C:\Users\Bartek\source\repos\Zadanie 10\Zadanie 10\obj\Debug\Zadanie 10.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\source\repos\Zadanie 10\Zadanie 10\bin\Debug\Zadanie 10.exe.config
+C:\Users\Bartek\source\repos\Zadanie 10\Zadanie 10\bin\Debug\Zadanie 10.exe
+C:\Users\Bartek\source\repos\Zadanie 10\Zadanie 10\bin\Debug\Zadanie 10.pdb
+C:\Users\Bartek\source\repos\Zadanie 10\Zadanie 10\obj\Debug\Zadanie 10.exe
+C:\Users\Bartek\source\repos\Zadanie 10\Zadanie 10\obj\Debug\Zadanie 10.pdb
