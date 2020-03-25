@@ -1,0 +1,7 @@
+C:\Users\Bartek\source\repos\Zadania7-9\Zadania7-9\bin\Debug\Zadania7-9.exe.config
+C:\Users\Bartek\source\repos\Zadania7-9\Zadania7-9\bin\Debug\Zadania7-9.exe
+C:\Users\Bartek\source\repos\Zadania7-9\Zadania7-9\bin\Debug\Zadania7-9.pdb
+C:\Users\Bartek\source\repos\Zadania7-9\Zadania7-9\obj\Debug\Zadania7-9.csprojAssemblyReference.cache
+C:\Users\Bartek\source\repos\Zadania7-9\Zadania7-9\obj\Debug\Zadania7-9.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\source\repos\Zadania7-9\Zadania7-9\obj\Debug\Zadania7-9.exe
+C:\Users\Bartek\source\repos\Zadania7-9\Zadania7-9\obj\Debug\Zadania7-9.pdb
