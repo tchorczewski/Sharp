@@ -1,0 +1,7 @@
+C:\Users\Bartek\source\repos\Zadania 13-15\Zadania 13-15\bin\Debug\Zadania 13-15.exe.config
+C:\Users\Bartek\source\repos\Zadania 13-15\Zadania 13-15\bin\Debug\Zadania 13-15.exe
+C:\Users\Bartek\source\repos\Zadania 13-15\Zadania 13-15\bin\Debug\Zadania 13-15.pdb
+C:\Users\Bartek\source\repos\Zadania 13-15\Zadania 13-15\obj\Debug\Zadania 13-15.csprojAssemblyReference.cache
+C:\Users\Bartek\source\repos\Zadania 13-15\Zadania 13-15\obj\Debug\Zadania 13-15.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\source\repos\Zadania 13-15\Zadania 13-15\obj\Debug\Zadania 13-15.exe
+C:\Users\Bartek\source\repos\Zadania 13-15\Zadania 13-15\obj\Debug\Zadania 13-15.pdb

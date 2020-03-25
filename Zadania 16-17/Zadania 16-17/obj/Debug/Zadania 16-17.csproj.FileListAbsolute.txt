@@ -1,0 +1,7 @@
+C:\Users\Bartek\source\repos\Zadania 16-17\Zadania 16-17\bin\Debug\Zadania 16-17.exe.config
+C:\Users\Bartek\source\repos\Zadania 16-17\Zadania 16-17\bin\Debug\Zadania 16-17.exe
+C:\Users\Bartek\source\repos\Zadania 16-17\Zadania 16-17\bin\Debug\Zadania 16-17.pdb
+C:\Users\Bartek\source\repos\Zadania 16-17\Zadania 16-17\obj\Debug\Zadania 16-17.csprojAssemblyReference.cache
+C:\Users\Bartek\source\repos\Zadania 16-17\Zadania 16-17\obj\Debug\Zadania 16-17.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\source\repos\Zadania 16-17\Zadania 16-17\obj\Debug\Zadania 16-17.exe
+C:\Users\Bartek\source\repos\Zadania 16-17\Zadania 16-17\obj\Debug\Zadania 16-17.pdb
